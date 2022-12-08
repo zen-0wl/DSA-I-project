@@ -1,4 +1,3 @@
-/* author: Lazeena (2027718) */
 #include <forward_list>
 #include <iostream>
 using namespace std;
